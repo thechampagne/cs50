@@ -1,6 +1,6 @@
 [package]
 name = "cs50"
-version = "1.0.0"
+version = "1.0.1"
 description = "CS50 Library for Rust"
 authors = ["XXIV"]
 homepage = "https://github.com/thechampagne/cs50-rust"
